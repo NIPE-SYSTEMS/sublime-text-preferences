@@ -8,6 +8,7 @@
 	"highlight_line": false,
 	"rulers":
 	[
+		72,
 		80
 	],
 	"scroll_speed": 0,
