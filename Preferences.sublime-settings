@@ -13,5 +13,6 @@
 	],
 	"scroll_speed": 0,
 	"trim_automatic_white_space": false,
-	"word_wrap": "true"
+	"word_wrap": "true",
+	"show_definitions": false
 }
