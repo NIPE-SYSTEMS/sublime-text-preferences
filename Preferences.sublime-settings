@@ -14,5 +14,6 @@
 	"scroll_speed": 0,
 	"trim_automatic_white_space": false,
 	"word_wrap": "true",
-	"show_definitions": false
+	"show_definitions": false,
+	"ensure_newline_at_eof_on_save": true
 }
